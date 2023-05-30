@@ -139,7 +139,7 @@ main{
 .hero-section{
     width: 1124px;
     height: 200px;
-    background-image: url("/media/paancorner.jpg");
+    background-image: url(./media/paancorner.jpg);
     background-size: cover;
     margin: 5px 0px;
 }
